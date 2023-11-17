@@ -1,2 +1,21 @@
 
 /* Your CSS Code here. */
+.container{
+	display:flex;
+	justify-content:center;
+	flex-wrap:wrap;
+/* 	background-color:pink; */
+	font-size:35px;
+}
+.red{
+	width:100px;
+	height:100px;
+	background:red;
+	
+}
+.blue{
+	width:100px;
+	height:100px;
+	background:blue;
+	
+}
